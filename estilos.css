@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    background-color: rgba(248, 195, 226, 0.37);
+  }
+  
+  /*PRODUCTOS*/
+section {
+    text-align: center;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: lavenderblush;
+  }
+  section .galeria-img {
+    border: 3px ridge pink;
+  }
